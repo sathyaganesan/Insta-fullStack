@@ -1,0 +1,25 @@
+{
+  "name": "instagram-cloning",
+  "version": "1.0.0",
+  "description": "Cloning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathyaganesan/instagram-cloning.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "sathya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathyaganesan/instagram-cloning/issues"
+  },
+  "homepage": "https://github.com/sathyaganesan/instagram-cloning#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
