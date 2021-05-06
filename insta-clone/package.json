@@ -37,5 +37,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathyaganesan/instagram-cloning.git"
+  },
+  "keywords": [
+    "cloning"
+  ],
+  "author": "sathya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathyaganesan/instagram-cloning/issues"
+  },
+  "homepage": "https://github.com/sathyaganesan/instagram-cloning#readme"
 }
